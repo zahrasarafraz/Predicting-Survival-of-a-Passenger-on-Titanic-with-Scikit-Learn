@@ -1,1 +1,1 @@
-# Predicting-Survival-of-a-Passenger-on-Titanic-with-Scikit-Learn
+# Predicting-Survival on-Titanic using Scikit-Learn
